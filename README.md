@@ -39,5 +39,5 @@ I build mobile and web applications with a focus on clean architecture and great
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/caleb-kwakye)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://calebkwakye.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://www.calebkwakye.com)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:caleb.kwakye@richmond.edu)
