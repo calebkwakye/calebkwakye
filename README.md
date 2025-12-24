@@ -1,6 +1,6 @@
 # Hey, I'm Caleb 👋
 
-**Software Engineer** · iOS & Full-Stack Development · University of Richmond '25
+**Software Engineer** · Full-Stack & iOS Development · University of Richmond '25
 
 I build mobile and web applications with a focus on clean architecture and great user experiences. Currently wrapping up my CS degree while working as an iOS Engineering Research Assistant.
 
@@ -41,4 +41,3 @@ I build mobile and web applications with a focus on clean architecture and great
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/caleb-kwakye)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://calebkwakye.com)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:caleb.kwakye@richmond.edu)
-
