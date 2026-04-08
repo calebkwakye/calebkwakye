@@ -1,13 +1,14 @@
 # Hey, I'm Caleb 👋
 
-**Software Engineer** · Full-Stack & iOS Development · University of Richmond '25
+**Software Engineer** · Full-Stack, iOS Development & **AI / agent systems** ·
 
-I build mobile and web applications with a focus on clean architecture and great user experiences. Currently wrapping up my CS degree while working as an iOS Engineering Research Assistant.
+I build mobile and web applications with a focus on clean architecture and great user experiences. I also work with **LLMs and multi-agent workflows**—orchestration, routing, and structured state—alongside traditional product engineering.
 
 ---
 
 ### 🔭 What I'm Working On
 
+- 🤖 Building **multi-agent LLM apps** with **LangGraph**, **LangChain**, **OpenAI** and **Anthropic** (supervisor-style routing, graph-based state)
 - 📱 Building iOS apps with **Swift**, **SwiftUI**, and **HealthKit** for academic research
 - 🔬 Engineering sensor data pipelines for ADHD prediction research at **University of Richmond**
 - 📊 Previously built design system analytics tooling at **Chime Financial**
@@ -24,6 +25,11 @@ I build mobile and web applications with a focus on clean architecture and great
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI / LLM**
+![Anthropic](https://img.shields.io/badge/-Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
 
 **Frameworks & Tools**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
